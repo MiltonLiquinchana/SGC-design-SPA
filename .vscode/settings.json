@@ -1,0 +1,15 @@
+{
+    "editor.wordWrap": "off",
+    "emmet.syntaxProfiles": {
+        "javascript": "html"
+      },
+      "emmet.includeLanguages": {
+        "javascript": "html"
+      },
+      "editor.formatOnPaste": true,
+      "editor.formatOnSave": true,
+      "[html]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.html-language-features"
+      }
+}
